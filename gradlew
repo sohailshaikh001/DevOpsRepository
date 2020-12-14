@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-## Direct commit
+# welcome 2021
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
