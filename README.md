@@ -1,5 +1,5 @@
 # Android-Login-And-Registration
-Android Login And Registration System with PHP, MySQL and SQLite Databases.
+Android Logsssin And Registration System with PHP, MySQL and SQLite Databases.
 
 DEVOPS CLASS 2020
 
